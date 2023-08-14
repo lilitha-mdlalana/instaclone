@@ -1,0 +1,19 @@
+.feed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    margin: 0 auto;
+    
+}
+
+.feed p {
+    width: 90%;
+}
+
+
+strong {
+    font-weight: 700;
+    font-size: 1.1rem
+}
